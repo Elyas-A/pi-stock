@@ -9,7 +9,7 @@ def main():
     buya_pi_list: list[BuyAPi] = []
 
     # raspberry pi 4's
-    can_pi_list.append(CanPi("Raspberry Pi 4 - 1gb", "https://www.canakit.com/raspberry-pi-pico-w.html"))
+    can_pi_list.append(CanPi("Raspberry Pi 4 - 1gb", "https://www.canakit.com/raspberry-pi-4-1gb.html"))
     can_pi_list.append(CanPi("Raspberry Pi 4 - 2gb", "https://www.canakit.com/raspberry-pi-4-2gb.html"))
     can_pi_list.append(CanPi("Raspberry Pi 4 - 4gb", "https://www.canakit.com/raspberry-pi-4-4gb.html"))
     can_pi_list.append(CanPi("Raspberry Pi 4 - 8gb", "https://www.canakit.com/raspberry-pi-4-8gb.html"))
