@@ -92,4 +92,3 @@ class BuyAPi:
         if not self.__alerted:
             send_notification(f"{self.__name} is in stock", self.__url)
         self.__alerted = True
-        pass
